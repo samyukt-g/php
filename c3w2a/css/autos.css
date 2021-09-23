@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+h1 {
+  font-size: 3em;
+  font-weight: 500;
+  margin: 0.5em;
+}
+h2 {
+  font-size: 2.5em;
+  font-weight: 500;
+  margin: 0.5em;
+}
+p {
+  font-size: 1em;
+}
+.main-container {
+  padding: 2em;
+}
+form, p, ul {
+  margin: 1.5em;
+}
+ul {
+  padding-left: 1em;
+}
